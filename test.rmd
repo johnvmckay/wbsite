@@ -2,7 +2,7 @@
 title: "Testing Bitches"
 author: "Jack"
 date: "April 10, 2017"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
